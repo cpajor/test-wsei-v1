@@ -1,1 +1,1 @@
-#lubie placki
+# lubie placki
